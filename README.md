@@ -1,3 +1,3 @@
 # Meeting-Notes
 
-[Wiki](wiki)
+[Wiki](https://github.com/itproforum-gitlessons/Meeting-Notes/wiki)
